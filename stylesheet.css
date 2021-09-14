@@ -1,6 +1,7 @@
 ﻿body
 {
     background-color: aquamarine;
+    font-size: larger;
 }
 p
 {
@@ -10,14 +11,15 @@ p
     border-width: 2px;
     width: 10em;
 }
-h1,h2
+div
 {
-    background-color: brown;
+    background-color: darkorange;
 }
+
 div p
 {
     background-color: chartreuse;
-    width: 70%;
+    width: 50%;
 }
 #content
 {
@@ -25,5 +27,9 @@ div p
 }
 .quotation
 {
-    font-size: 2em;
+    font-size: 1em;
 }
+h1,h2
+{
+    background-color: brown;
+} 

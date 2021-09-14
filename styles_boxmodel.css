@@ -1,0 +1,41 @@
+﻿body{
+    background-color: lavender;
+}
+.menu
+{
+    /* background-color: gainsboro; */
+    list-style-type:none;
+    text-align: center;
+}
+/* ul li:nth-child(3)
+{
+    background-color: greenyellow;
+    display: none;
+    visibility: hidden;
+    
+} */
+
+/* ul li */
+.menu li{
+    background-color:khaki;
+    padding: 10px 10px 10px 10px;
+    margin: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-bottom:3px solid black;
+    border-left: 15px solid maroon;
+
+    /* width: 200px; */
+    text-align: center;
+    display:inline;
+}
+
+.menu li a
+{
+    text-decoration: none;
+}
+.menu li:hover
+{
+    background-color: orange;
+}

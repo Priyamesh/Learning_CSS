@@ -1,0 +1,45 @@
+﻿body
+{
+    background:#cccc99; 
+    font-family:sans-serif;
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#eeeecc;
+    border-radius: 0.15em;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.content
+{
+    background: #eeeecc;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 10px;
+}
+
+.content ul
+{
+    list-style-type: square;
+    
+}
+.code
+{
+    overflow:auto;
+    font-family: monospace;
+    font-size: 0.9em;
+}
+.content ol
+{
+    font-style: italic;
+    font-size: 0.9em;
+}
+.copyright
+{
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 0.8em;
+    text-align: center;
+}
